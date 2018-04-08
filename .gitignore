@@ -1,0 +1,13 @@
+*.class
+.project
+.settings
+.classpath
+.git
+.factorypath
+/target/
+/logback/
+/h2/
+/data/
+/.apt_generated/
+.idea/
+*.iml
